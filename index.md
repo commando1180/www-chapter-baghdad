@@ -10,7 +10,7 @@ region: Asia
 <div style='color:red;'>
 
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
-The chapter Leader is Bilal Salman. Follow chapter news on Facebook , Linkedin
+The chapter Leader is Bilal Salman. Follow chapter news on Facebook https://www.facebook.com/OWASP-Baghdad-Chapter-107422534415874 
 
 
 </div>
