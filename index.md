@@ -9,7 +9,7 @@ region: Asia
 
 <div style='color:red;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+
 
 layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
 
@@ -22,7 +22,7 @@ region: This is the region you are in according to our data
 </div>
 
 ## Welcome
-Include some information here about your chapter
+مرحباً بكم في مشاريع الامان الخاصة بتطبيقات الويب المفتوحة المصدر من بغداد 
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
